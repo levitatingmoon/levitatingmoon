@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+## My projects
+[Mobile game - Unity](https://github.com/alice4book/Mobilka)
+
+[VR game - Unity](https://github.com/alice4book/VR)
+
+[Atmospheric horror game - Unreal Engine](https://github.com/alice4book/Przestrzenie)
+
+[Racing game - Unreal Engine](https://github.com/levitatingmoon/RacingGame)
+
+[Game engine](https://github.com/alice4book/Blooming-Brawl)
+
+---
